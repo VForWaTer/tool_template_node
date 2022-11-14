@@ -1,0 +1,10 @@
+tools:
+  foobar:
+    title: Foobar function
+    description: Dummy default function of a toolbox template
+    version: 1.0
+    parameters:
+      foo_int:
+        type: integer
+      foo_str:
+        type: string

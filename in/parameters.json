@@ -1,0 +1,6 @@
+{
+    "foobar": {
+        "foo_int": "42",
+        "foo_str": "Foobar"
+    }
+}
