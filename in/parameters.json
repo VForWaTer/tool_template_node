@@ -5,7 +5,7 @@
         "foo_string": "Never eat yellow snow",
         "foo_enum": "bar",
         "foo_array": [34, 55, 23, 43, 23],
-        "foo_matrix": "/in/foo_matrix.dat",
+        "foo_matrix": "/in/foo_mat.dat",
         "foo_csv": "/in/foo_csv.csv"
     }
 }

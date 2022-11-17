@@ -9,10 +9,8 @@ COPY ./src /src
 
 WORKDIR /src
 
-# install dependencies:  js-yaml and papaparse
-# in node, the dependencies are directly install into /src/
-RUN npm install js-yaml
-RUN npm install papaparse
+# install dependencies:  js2args
+RUN npm install js2args@v0.3.0
 
 # run command
 CMD ["node", "run.js"]

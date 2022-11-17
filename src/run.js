@@ -1,4 +1,4 @@
-const getParameter = require('./getParameter');
+const getParameter = require('js2args');
 
 // get the tool names
 const toolName = process.env.RUN_TOOL || 'foobar';
